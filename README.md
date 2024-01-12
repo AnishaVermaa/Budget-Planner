@@ -1,7 +1,6 @@
 📊 React Budget Planner
 
-Explore my responsive React Budget Planner project! It's a simple website where you can:
-
+Explore my responsive React Budget Planner project! It's a simple website where you can:-
 📝 Add expenses
 🗑 Delete expenses
 🔍 Search expenses
@@ -9,14 +8,12 @@ Explore my responsive React Budget Planner project! It's a simple website where 
 
 
 Tech Stack:-
-
 React
 Context API
 Bootstrap (for responsiveness)
 
 
 How to Use:-
-
 Clone:- git clone https://github.com/your-username/react-budget-planner.git
 Install:- npm install
 Run:- npm start

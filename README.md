@@ -14,7 +14,7 @@
 
 
 ## How to Use:- 
-### Clone:- git clone https://github.com/your-username/react-budget-planner.git
+### Clone:- git clone https://github.com/AnishaVermaa/Budget-Planner.git
 ### Install:- npm install
 ### Run:- npm start
 
